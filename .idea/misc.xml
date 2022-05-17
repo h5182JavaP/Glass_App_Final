@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work/Glass App/aaa/Glass-App/app/src/main/res/layout/activity_address.xml" value="0.20416666666666666" />
+        <entry key="..\:/Work/Glass App/aaa/Glass-App/app/src/main/res/layout/activity_inquiry_form_edit.xml" value="0.20416666666666666" />
+        <entry key="..\:/Work/Glass App/aaa/Glass-App/app/src/main/res/layout/activity_order_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Work/Glass App/aaa/Glass-App/app/src/main/res/layout/recycler_item_header_row.xml" value="0.20416666666666666" />
+        <entry key="..\:/Work/Glass App/aaa/Glass-App/app/src/main/res/layout/recycler_item_main_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Work/Glass App/aaa/Glass-App/app/src/main/res/layout/recycler_item_regular_row.xml" value="0.20416666666666666" />
+        <entry key="..\:/Work/Glass App/aaa/Glass-App/app/src/main/res/layout/recycler_item_title_row.xml" value="0.20416666666666666" />
+        <entry key="..\:/Work/Glass App/aaa/Glass-App/app/src/main/res/layout/row_sgu_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Work/Glass App/aaa/Glass-App/app/src/main/res/layout/simple_spinner_dropdown_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Work/Glass App/aaa/Glass-App/app/src/main/res/layout/simple_spinner_dropdown_item1.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
